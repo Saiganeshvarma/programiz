@@ -8,7 +8,7 @@ var root2;
 if(d > 0){
     root1 = -b+(d)/2*a
     root2 = -b-(d)/2*a
-    console.log(` The roots are${root1}, ${root2}`);
+    console.log(` The roots are ${root1}, ${root2}`);
 }else if(d==0){
     root1 = root2 = -b/2*a
     console.log(`The roots are ${root1} ,${root2}`);
