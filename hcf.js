@@ -8,4 +8,4 @@ for (var i = 1; i <= num1 && i <= num2; i++) {
     }
 }
 
-console.log( hcf);
+console.log(hcf);
