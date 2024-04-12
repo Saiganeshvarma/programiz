@@ -9,5 +9,5 @@ var myObj = {
     engineering : "sriindhu engineering collage"
 
 }
-var hasKey = "pincodew" in myObj
+var hasKey = "pincode" in myObj
 console.log(hasKey);

@@ -7,7 +7,7 @@ var myObj = {
     school : "Sls scholars heigh school",
     intermidiate : "Srinidhi junior collage",
     engineering : "sriindhu engineering collage"
-
 }
-myObj.landmark = "zphs heigh school"
-console.table(myObj);
+console.log(myObj);
+var newObj = JSON.stringify(myObj)
+console.log(newObj);

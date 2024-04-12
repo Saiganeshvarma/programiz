@@ -4,6 +4,3 @@
 //     newStr += myStr[i]
 //     console.log(newStr);
 // }
-var myStr = "sai"
-var newStr = myStr.split('').reverse().join('')
-console.log(newStr);
