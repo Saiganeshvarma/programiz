@@ -8,6 +8,6 @@ var myObj = {
     intermidiate : "Srinidhi junior collage",
     engineering : "sriindhu engineering collage"
 }
-console.log(myObj);
+
 var newObj = JSON.stringify(myObj)
 console.log(newObj);

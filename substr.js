@@ -1,4 +1,4 @@
-var myStr = "halloworld"
+var myStr = "helloworld"
 var checkStr = "he"
 if(myStr.startsWith(checkStr)){
     console.log(true);

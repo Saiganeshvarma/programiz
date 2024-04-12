@@ -1,4 +1,4 @@
-var myStr = " learning the java script programs"
+var myStr = "iam learning the java script"
 var space = " "
 var newStr = ""
 for(var i = 0 ; i<myStr.length ; i++){
@@ -6,6 +6,7 @@ for(var i = 0 ; i<myStr.length ; i++){
         newStr += "<br>"
     }else{
         newStr += myStr[i]
+
     }
 }
 console.log(newStr);

@@ -1,5 +1,5 @@
 var myStr = "abcdefghij"
-var newStr = " "
+var newStr = ""
 for(var i = 0 ; i<myStr.length ; i++){
     newStr += myStr.charAt(Math.floor(Math.random()*myStr.length))
 
